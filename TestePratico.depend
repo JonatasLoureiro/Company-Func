@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1701131550 source:c:\users\jónatas\onedrive\ambiente de trabalho\ei\programação i\teste pratico 1\testepratico\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
